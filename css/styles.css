@@ -2,8 +2,21 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   display: block;
   margin: auto;
-  width: 60%;
+  width: 70%;
   box-sizing: border-box;
+  padding: 10px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center;
 }
 
 .container {
@@ -18,14 +31,14 @@ span {
 .ben {
   margin-bottom: 300px;
 }
+
 .bentext {
-  width: 40%;
   display: block;
   display: inline-block;
 }
 
 .ben img {
-  width: 300px;
+  max-width: 300px;
   height: auto;
   float: right;
   border-radius: 3px;
