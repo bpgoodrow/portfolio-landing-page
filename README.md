@@ -1,20 +1,16 @@
-link to site on GitHub Pages
-application setup instructions
 # Portfolio Landing Page
-
 By Ben Goodrow
+
 This is a html/css portfolio landing page for Ben Goodrow
 
 ## Link to GitHubPages
-
-Placeholder
+[bpgoodrow.github.io/portfolio-landing-page](bpgoodrow.github.io/portfolio-landing-page)
 
 ## Technologies Used
 * HTML
 * CSS
 
 ## Description
-
 This page allows users to gain insight into Ben's experience, education, and current projects.
 
 ## Installation
