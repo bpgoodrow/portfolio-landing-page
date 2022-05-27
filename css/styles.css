@@ -3,20 +3,30 @@ body {
 }
 
 span {
-  font-style: oblique;
+  font-size: larger;
 }
 
-.ben {
+.background {
   display: flex;
   justify-content: space-between;
   margin: 10px;
 }
 
-.ben img {
+.ben {
+  margin-bottom: 300px;
+}
+.bentext{
   width: 40%;
-  height: auto;
+  display: block;
+  display: inline-block;
 }
 
-/* li {
+.ben img {
+  width: 300px;
+  height: auto;
+  float: right;
+}
+
+ul {
   list-style-type: none;
-} */
+}

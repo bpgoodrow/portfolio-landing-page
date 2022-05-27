@@ -1,17 +1,15 @@
-application name
-names of contributors
-description of application
 link to site on GitHub Pages
-a "technologies used" section
 application setup instructions
-link to site on GitHub Pages
 a "known bugs" section
-copyright, date, and license information
 
 # Portfolio Landing Page
 
 By Ben Goodrow
 This is a html/css portfolio landing page for Ben Goodrow
+
+## Link to GitHubPages
+
+Placeholder
 
 ## Technologies Used
 * HTML
