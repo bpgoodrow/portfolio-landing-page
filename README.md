@@ -24,7 +24,7 @@ This page allows users to gain insight into Ben's experience, education, and cur
 * Additionally open [bpgoodrow.github.io/portfolio-landing-page](bpgoodrow.github.io/portfolio-landing-page) in your web browser.
 
 ## Known Bugs
-* img won't scale with size of website correctly
+* N/A
 
 ## License
 

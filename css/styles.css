@@ -44,7 +44,7 @@ img {
   float: right;
   border-radius: 3px;
 }
-/* cant get image to scale down from 300px */
+
 ul {
   list-style-type: none;
 }
@@ -54,6 +54,15 @@ ul {
   justify-content: space-between;
   margin: 10px;
   border-bottom: transparent;
+}
+
+.background .workexperience {
+  padding-right: 60px;
+}
+
+.background .education {
+  border-left: solid black 2px;
+  padding-left: 80px;
 }
 
 .hobbies {
