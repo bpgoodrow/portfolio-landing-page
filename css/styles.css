@@ -29,7 +29,8 @@ span {
 }
 
 .ben {
-  margin-bottom: 300px;
+  margin-bottom: 100px;
+  overflow: hidden;
 }
 
 .bentext {
@@ -37,13 +38,13 @@ span {
   display: inline-block;
 }
 
-.ben img {
-  max-width: 300px;
+img {
+  max-width: 40%;
   height: auto;
   float: right;
   border-radius: 3px;
 }
-
+/* cant get image to scale down from 300px */
 ul {
   list-style-type: none;
 }

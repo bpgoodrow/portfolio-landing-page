@@ -1,7 +1,5 @@
 link to site on GitHub Pages
 application setup instructions
-a "known bugs" section
-
 # Portfolio Landing Page
 
 By Ben Goodrow
@@ -23,9 +21,10 @@ This page allows users to gain insight into Ben's experience, education, and cur
 * Clone this repository to your desktop.
 * Navigate to the top level of the portfolio-landing-page-directory.
 * Open index.html in your browser.
+* Additionally open [bpgoodrow.github.io/portfolio-landing-page](bpgoodrow.github.io/portfolio-landing-page) in your web browser.
 
 ## Known Bugs
-N/A
+* img won't scale with size of website correctly
 
 ## License
 
