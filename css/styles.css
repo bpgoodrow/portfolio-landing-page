@@ -6,16 +6,10 @@ span {
   font-size: larger;
 }
 
-.background {
-  display: flex;
-  justify-content: space-between;
-  margin: 10px;
-}
-
 .ben {
   margin-bottom: 300px;
 }
-.bentext{
+.bentext {
   width: 40%;
   display: block;
   display: inline-block;
@@ -30,3 +24,10 @@ span {
 ul {
   list-style-type: none;
 }
+
+.background .container {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+/* need to add container for work experience and education to display correctly */
