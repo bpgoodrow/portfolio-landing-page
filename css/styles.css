@@ -12,3 +12,7 @@ body {
   width: 40%;
   height: auto;
 }
+
+li {
+  list-style-type: none;
+}
