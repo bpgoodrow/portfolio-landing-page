@@ -20,7 +20,7 @@ This page allows users to gain insight into Ben's experience, education, and cur
 * Additionally open [bpgoodrow.github.io/portfolio-landing-page](bpgoodrow.github.io/portfolio-landing-page) in your web browser.
 
 ## Known Bugs
-* N/A
+* Must copy and past github pages link into browser. Link broken if clicked directly.
 
 ## License
 
