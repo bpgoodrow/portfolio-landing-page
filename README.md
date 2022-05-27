@@ -4,7 +4,7 @@ By Ben Goodrow
 This is a html/css portfolio landing page for Ben Goodrow
 
 ## Link to GitHubPages
-[bpgoodrow.github.io/portfolio-landing-page](bpgoodrow.github.io/portfolio-landing-page)
+[bpgoodrow.github.io/portfolio-landing-page](bpgoodrow.github.io/portfolio-landing-page/)
 
 ## Technologies Used
 * HTML
