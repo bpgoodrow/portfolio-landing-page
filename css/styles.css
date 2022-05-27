@@ -1,9 +1,11 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .ben {
-margin: auto;
-width: 100%;
-height: auto;
-display: block;
-display: inline-block;
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
 }
 
 .ben img {
