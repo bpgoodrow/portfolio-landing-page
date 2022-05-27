@@ -1,0 +1,12 @@
+.ben {
+margin: auto;
+width: 100%;
+height: auto;
+display: block;
+display: inline-block;
+}
+
+.ben img {
+  width: 40%;
+  height: auto;
+}
