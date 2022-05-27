@@ -1,5 +1,14 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+  display: block;
+  margin: auto;
+  width: 60%;
+  box-sizing: border-box;
+}
+
+.container {
+  border-bottom: solid black 2px;
+  padding: 10px;
 }
 
 span {
@@ -19,6 +28,7 @@ span {
   width: 300px;
   height: auto;
   float: right;
+  border-radius: 3px;
 }
 
 ul {
@@ -29,5 +39,9 @@ ul {
   display: flex;
   justify-content: space-between;
   margin: 10px;
+  border-bottom: transparent;
 }
-/* need to add container for work experience and education to display correctly */
+
+.hobbies {
+  padding-bottom: 10px;
+}
